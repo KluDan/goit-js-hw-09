@@ -16,3 +16,19 @@ img {
   display: block;
   max-width: 100%;
 }
+.flatpickr-input{
+  width: 300px;
+}
+.timer{
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  gap: 5px;
+}
+.field{
+  display: flex;
+  flex-direction: column;
+}
+.value{
+  font-size: 24px;
+}
